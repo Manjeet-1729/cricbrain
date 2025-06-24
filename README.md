@@ -74,10 +74,6 @@ Run tests using your preferred test runner, for example:
 pytest tests/
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🙋‍♂️ Contact
 
 For questions, suggestions, or feedback:
